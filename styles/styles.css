@@ -7,7 +7,7 @@ html * {
 
 @font-face {
   font-family: myFirstFont;
-  src: url('/styles/neuropolitical\ rg.ttf');
+  src: url('neuropolitical\ rg.ttf');
 }
 
 
@@ -91,7 +91,7 @@ html * {
 }
 
 .navbar-toggler-icon{
-  background-image: url('/images/menu-bar.png') !important;
+  background-image: url('../images/menu-bar.png') !important;
 }
 
 .discord-2{
