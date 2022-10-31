@@ -476,7 +476,7 @@ html * {
   /* comic */
 
   .section-top{
-    padding-top: 148px;
+    padding-top: 148px !important;
   }
 
   .indent{
