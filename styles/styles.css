@@ -473,6 +473,35 @@ html * {
     margin: 0 auto;
   }
 
+ /* comic */
+
+  .section-top{
+    padding-top: 148px;
+  }
+
+  .indent{
+    letter-spacing: 8px;
+    font-size: 36px !important;
+  }
+
+  .rain-comic{
+    padding-bottom: 16px;
+  }
+
+  .story-2-comic{
+    font-size: 36px;
+    line-height: 2.2;
+  }
+
+  .story-left{
+    text-align: left;
+  }
+
+  .center{
+    padding-top: 56px;
+    font-size: 42px !important;
+  }
+
   @media (max-width: 580px){
     p {
       font-size: 18px;
@@ -501,7 +530,14 @@ html * {
         margin-right: 0;
       }
 
-    
+      .story-2-comic{
+        font-size: 18px;
+      }
+
+      .center{
+        font-size: 28px !important;
+      }
+
     }
 
 
@@ -530,8 +566,6 @@ html * {
       margin-left: 54px;
       margin-right: 24px;
     }
-
-    
 
   }
 
